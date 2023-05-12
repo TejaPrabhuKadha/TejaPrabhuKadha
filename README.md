@@ -1,4 +1,5 @@
-![intro](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/c54d4732-bc4d-4679-8d6b-afb79e6d2129)
+![ezgif-1-db3abab501](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/14397e97-011d-4a9f-a78f-df90016b81b8)
+
 
 
 
