@@ -1,6 +1,6 @@
+![intro](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/c54d4732-bc4d-4679-8d6b-afb79e6d2129)
 
 
-https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/741e472b-b013-4027-a814-2e948fc634c9
 
 
 
