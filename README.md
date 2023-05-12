@@ -1,3 +1,12 @@
+
+
+https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/741e472b-b013-4027-a814-2e948fc634c9
+
+
+
+
+
+
 # 💫 About Me:
 Hey there, I am an aspiring engineering student and wanting to build my career in Software development.From the moment I wrote my first "Hello World" program I knew that I was hooked on the world of Software Development. Programming never was "just a job" for me rather a passion. It's offered an engaging challenge to learn and continue to improve my skills. 
 What began as a simple "hello world" program has become a fully-fledged passion that only gets more exciting as time goes on.
