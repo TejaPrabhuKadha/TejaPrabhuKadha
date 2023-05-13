@@ -1,6 +1,6 @@
 ![ezgif-1-db3abab501](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/14397e97-011d-4a9f-a78f-df90016b81b8)
 
-# 💫 About Me:
+#  ![image](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/aa18c101-68f8-4356-b2d9-fc257096a428) ABOUT ME:
 Hi there! As a web developer, Python programmer, and AI/Machine Learning enthusiast, I have a deep passion for creating innovative and functional solutions that leverage the power of technology. With my skills in these areas, I strive to build user-friendly and intuitive web applications, automate processes using Python, and develop intelligent systems that can learn and adapt on their own.
 
 As a web developer, I have experience building responsive, interactive, and dynamic websites using a range of programming languages such as HTML, CSS, JavaScript, and popular web frameworks like React, Angular, and Vue.js. I am well-versed in designing user interfaces that are not only visually appealing but also provide a seamless user experience.
