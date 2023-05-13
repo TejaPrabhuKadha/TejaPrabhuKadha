@@ -1,13 +1,5 @@
 ![ezgif-1-db3abab501](https://github.com/TejaPrabhuKadha/TejaPrabhuKadha/assets/127415609/14397e97-011d-4a9f-a78f-df90016b81b8)
 
-
-
-
-
-
-
-
-
 # 💫 About Me:
 Hi there! As a web developer, Python programmer, and AI/Machine Learning enthusiast, I have a deep passion for creating innovative and functional solutions that leverage the power of technology. With my skills in these areas, I strive to build user-friendly and intuitive web applications, automate processes using Python, and develop intelligent systems that can learn and adapt on their own.
 
@@ -40,3 +32,4 @@ Overall, as a web developer, Python programmer, and AI enthusiast, I am dedicate
 ![](https://github-contributor-stats.vercel.app/api?username=tejaprabhukadha&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=TejaPrabhuKadha&icon=0&color=0)](https://visitcount.itsvg.in)
+Designed & Developed by Kadha Teja Prabhu
